@@ -21,3 +21,6 @@
 ### 参考资料
 * [在装有 Chrome 的 Android 上远程调试](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=zh) | [国内翻译文档](http://www.css88.com/doc/chrome-devtools/remote-debugging/)
 * [远程调试安卓设备](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) | [国内翻译文档](http://www.css88.com/doc/chrome-devtools/remote-debugging/)
+
+## 关键渲染路径
+### 使用 Google 的 [Web Fundamentals](https://developers.google.com/web/fundamentals/) 手册详细了解[关键渲染路径](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)。
