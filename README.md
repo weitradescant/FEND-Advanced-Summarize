@@ -5,6 +5,7 @@
 * 通关群结构
 * ...
 * 可以查看[前端通关群学员手册](https://shimo.im/doc/bZWadyhEdvYLYNfa?r=JDGG20/)进行了解
+---
 
 # 关于提问
 关于提问，给大家推荐这篇文章：
