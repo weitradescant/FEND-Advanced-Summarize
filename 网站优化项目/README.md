@@ -24,8 +24,3 @@
 
 ## 关键渲染路径
 ### 使用 Google 的 [Web Fundamentals](https://developers.google.com/web/fundamentals/) 手册详细了解[关键渲染路径](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)。基本上你需要的概念知识这里都有
-
-## 新版chrome的FPS怎么看
-### 可以参考以下截图说明
-![](http://oxnpozqr8.bkt.clouddn.com/WechatIMG152.jpeg)
-![](http://oxnpozqr8.bkt.clouddn.com/WechatIMG155.jpeg)
